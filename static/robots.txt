@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: http://loickouam.com/sitemap.xml
